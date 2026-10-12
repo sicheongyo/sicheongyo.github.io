@@ -97,6 +97,8 @@ html{scroll-behavior:smooth}
 .totop a{font-size:.78rem;color:#8b93a0;text-decoration:none}
 .totop a:hover{color:#DFA04B}
 
+  border:1px solid var(--line);background:var(--surface)}
+
 /* ── 키 비주얼 ──────────────────────────────── */
 .kv{margin:24px 0 0}
 .kv img{display:block;width:100%;height:auto;border-radius:3px;
